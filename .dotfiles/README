@@ -1,0 +1,23 @@
+# Iniciando uma nova máquina:
+git clone --bare https://github.com/brunonar/dotfiles.git
+$HOME/.setup_new_machine.sh
+
+# Referência:
+https://linuxkamarada.com/en/2020/06/05/manage-your-dotfiles-with-git/
+
+# Aplicativos Importantes:
+
+* git
+* nvim
+* fzf
+* nodejs
+* python3 
+
+
+# Extensões do Chrome-like
+
+* Bitwarden
+* Vimium C
+* PDF Viewer for Vimium C
+* Wappalyzer
+* Netflix Extended
