@@ -5,6 +5,8 @@ nmap <leader>q :q<CR>
 nmap <leader>Q :qa<CR>
 nmap <leader>n :nohlsearch<CR>
 
+nmap <leader>p :pu<CR>
+
 nmap , .
 nmap ; .
 
