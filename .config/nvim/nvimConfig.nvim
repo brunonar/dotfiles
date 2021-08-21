@@ -5,6 +5,7 @@ set shiftwidth=2
 set expandtab
 set clipboard=unnamedplus
 set updatetime=750
+set inccommand=nosplit
 
 " ==== GRUVBOX =======
 let g:gruvbox_contrast_dark = 'hard'
