@@ -6,3 +6,5 @@
 	helper = cache --timeout=3600
 [diff]
 	tool = vimdiff
+[color]
+	ui = auto
