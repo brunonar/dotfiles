@@ -5,5 +5,8 @@ gdot config --local status.showUntrackedFiles no
 
 gdot checkout
 
+sudo add-apt-repository ppa:neovim-ppa/stable
+sudo apt update
 sudo apt install nodejs npm unzip fzf neovim
-
+sudo npm install -g npm
+sudo npm install -g typescript typescript-language-server eslint_d prettier

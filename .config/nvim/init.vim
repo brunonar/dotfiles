@@ -25,6 +25,6 @@ nmap <leader>u <C-u>
 nmap <leader>s :%s/
 
 source ~/.config/nvim/PluginsInstall.nvim
+source ~/.config/nvim/LuaCodes.nvim
 source ~/.config/nvim/nvimConfig.nvim
-source ~/.config/nvim/CoC.nvim
 source ~/.config/nvim/Closetags.nvim
