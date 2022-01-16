@@ -5,5 +5,5 @@ gdot config --local status.showUntrackedFiles no
 
 gdot checkout
 
-sudo pacman -S nodejs npm brave unzip fzf neovim flameshot
+sudo apt install nodejs npm unzip fzf neovim
 
