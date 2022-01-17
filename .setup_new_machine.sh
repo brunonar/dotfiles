@@ -10,3 +10,6 @@ sudo apt update
 sudo apt install nodejs npm unzip fzf neovim
 sudo npm install -g npm
 sudo npm install -g typescript typescript-language-server eslint_d prettier
+
+git clone --depth=1 https://github.com/savq/paq-nvim.git     "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/pack/paqs/start/paq-nvim
+
