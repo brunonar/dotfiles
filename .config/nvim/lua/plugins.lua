@@ -10,6 +10,7 @@ require "paq" {
   
   "nvim-lua/plenary.nvim";
   "nvim-telescope/telescope.nvim";
+  "nvim-telescope/telescope-fzf-native.nvim";
 
   "HerringtonDarkholme/yats.vim";
   "morhetz/gruvbox";

@@ -23,6 +23,7 @@ opt.swapfile = false          -- don't use swapfile
 -----------------------------------------------------------
 opt.number = true             -- show line number
 opt.relativenumber = true
+opt.cursorline = true
 opt.termguicolors = true
 opt.expandtab = true
 opt.shiftwidth=2
@@ -38,6 +39,7 @@ opt.smartcase = true          -- ignore lowercase for the whole pattern
 opt.linebreak = true          -- wrap on word boundary
 opt.inccommand='nosplit'        -- when using :substitute, highlight matching pattern directly on buffer
 opt.updatetime=750
+opt.title = true
 
 vim.g['netrw_banner'] = 0
 vim.g['netrw_liststyle'] = 3
